@@ -1,0 +1,1 @@
+This network capability tool is to analyse 30 minutes city. it uses ArcGIS Pro network analysis api and GTFS data
